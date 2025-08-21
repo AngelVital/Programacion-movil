@@ -7,8 +7,8 @@ Cada carpeta en `apps/` tiene su propio código y un `README.md` con más detall
 
 ## 🚀 Lista de aplicaciones
 
-1. [Mi Primera App](./apps/my-app/README.md)  
+1. [Mi Primera App](./my-app/README.md)  
    _Aplicación sencilla para probar Expo_
 
-2. [Lista de Tareas](./apps/task-list/README.md)  
+2. [Lista de Tareas](./task-list/README.md)  
    _Una app para gestionar tareas._
